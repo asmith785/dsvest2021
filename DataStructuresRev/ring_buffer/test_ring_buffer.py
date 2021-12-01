@@ -1,3 +1,4 @@
+
 import unittest
 from ring_buffer import RingBuffer
 
@@ -50,3 +51,4 @@ class RingBufferTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+# %%
